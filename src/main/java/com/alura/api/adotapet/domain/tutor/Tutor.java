@@ -1,4 +1,4 @@
-package com.alura.api.adotapet.tutor;
+package com.alura.api.adotapet.domain.tutor;
 
 import jakarta.persistence.Column;
 import jakarta.persistence.Entity;

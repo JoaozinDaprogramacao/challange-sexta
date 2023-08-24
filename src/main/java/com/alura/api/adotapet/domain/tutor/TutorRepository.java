@@ -1,4 +1,4 @@
-package com.alura.api.adotapet.tutor;
+package com.alura.api.adotapet.domain.tutor;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
